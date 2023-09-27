@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dkym4dO5r/5zt9T+29p5lk4dA5SklTsx+c6xJqS1VbmejihKi2my4o3zg/z8FFF9T8dIJ4ryPJiFefd0iUYwmg==",
+  "success": true,
+  "projectFilePath": "/home/miku/programming/csharp/knightsTour/knightsTour.csproj",
+  "expectedPackageFiles": [
+    "/home/miku/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.11/microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/home/miku/programming/csharp/knightsTour/bin/Debug/net7.0/knightsTour
+/home/miku/programming/csharp/knightsTour/bin/Debug/net7.0/knightsTour.deps.json
+/home/miku/programming/csharp/knightsTour/bin/Debug/net7.0/knightsTour.runtimeconfig.json
+/home/miku/programming/csharp/knightsTour/bin/Debug/net7.0/knightsTour.dll
+/home/miku/programming/csharp/knightsTour/bin/Debug/net7.0/knightsTour.pdb
+/home/miku/programming/csharp/knightsTour/obj/Debug/net7.0/knightsTour.csproj.AssemblyReference.cache
+/home/miku/programming/csharp/knightsTour/obj/Debug/net7.0/knightsTour.GeneratedMSBuildEditorConfig.editorconfig
+/home/miku/programming/csharp/knightsTour/obj/Debug/net7.0/knightsTour.AssemblyInfoInputs.cache
+/home/miku/programming/csharp/knightsTour/obj/Debug/net7.0/knightsTour.AssemblyInfo.cs
+/home/miku/programming/csharp/knightsTour/obj/Debug/net7.0/knightsTour.csproj.CoreCompileInputs.cache
+/home/miku/programming/csharp/knightsTour/obj/Debug/net7.0/knightsTour.dll
+/home/miku/programming/csharp/knightsTour/obj/Debug/net7.0/refint/knightsTour.dll
+/home/miku/programming/csharp/knightsTour/obj/Debug/net7.0/knightsTour.pdb
+/home/miku/programming/csharp/knightsTour/obj/Debug/net7.0/knightsTour.genruntimeconfig.cache
+/home/miku/programming/csharp/knightsTour/obj/Debug/net7.0/ref/knightsTour.dll
